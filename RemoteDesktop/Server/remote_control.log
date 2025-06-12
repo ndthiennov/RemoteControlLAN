@@ -1,0 +1,54 @@
+2024-11-06 03:21:57,288 - INFO - Server started on :8080 and 8081
+2024-11-06 03:22:09,820 - INFO - Main connection from ('192.168.1.11', 49195)
+2024-11-06 03:22:09,840 - INFO - Basic connection from ('192.168.1.11', 49196)
+2024-11-06 03:22:09,843 - INFO - Started Main connection handler for ('192.168.1.11', 49195)
+2024-11-06 03:22:09,845 - INFO - Started Basic connection handler for ('192.168.1.11', 49196)
+2024-11-06 03:24:12,530 - INFO - Server started on :8080 and 8081
+2024-11-06 03:24:20,978 - INFO - Main connection from ('192.168.1.11', 49228)
+2024-11-06 03:24:20,992 - INFO - Basic connection from ('192.168.1.11', 49229)
+2024-11-06 03:24:20,995 - INFO - Started Main connection handler for ('192.168.1.11', 49228)
+2024-11-06 03:24:20,997 - INFO - Started Basic connection handler for ('192.168.1.11', 49229)
+2024-11-06 03:28:36,596 - INFO - Connection reset by ('192.168.1.11', 49229)
+2024-11-06 03:28:36,597 - INFO - Basic connection from ('192.168.1.11', 49229) closed
+2024-11-06 03:28:36,604 - ERROR - Error sending response: [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-11-06 03:28:36,605 - ERROR - Error sending response: [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-11-06 03:28:36,605 - INFO - Connection reset by ('192.168.1.11', 49228)
+2024-11-06 03:28:36,606 - INFO - Main connection from ('192.168.1.11', 49228) closed
+2024-11-06 03:28:54,709 - INFO - Main connection from ('192.168.1.11', 49240)
+2024-11-06 03:28:54,709 - INFO - Basic connection from ('192.168.1.11', 49241)
+2024-11-06 03:28:54,711 - INFO - Started Main connection handler for ('192.168.1.11', 49240)
+2024-11-06 03:28:54,713 - INFO - Started Basic connection handler for ('192.168.1.11', 49241)
+2024-11-06 03:30:38,691 - INFO - Server started on :8080 and 8081
+2024-11-06 03:30:45,053 - INFO - Main connection from ('192.168.1.11', 49247)
+2024-11-06 03:30:45,072 - INFO - Basic connection from ('192.168.1.11', 49248)
+2024-11-06 03:30:45,075 - INFO - Started Main connection handler for ('192.168.1.11', 49247)
+2024-11-06 03:30:45,077 - INFO - Started Basic connection handler for ('192.168.1.11', 49248)
+2024-11-06 03:43:53,935 - INFO - Received quit command from ('192.168.1.11', 49247)
+2024-11-06 03:43:53,936 - ERROR - Error sending response: [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-11-06 03:43:53,937 - INFO - Received quit command from ('192.168.1.11', 49248)
+2024-11-06 03:43:53,937 - INFO - Main connection from ('192.168.1.11', 49247) closed
+2024-11-06 03:43:53,937 - INFO - Basic connection from ('192.168.1.11', 49248) closed
+2024-11-06 03:53:55,628 - INFO - Server started on :8080 and 8081
+2024-11-06 03:54:14,265 - INFO - Main connection from ('192.168.1.11', 49344)
+2024-11-06 03:54:14,277 - INFO - Basic connection from ('192.168.1.11', 49345)
+2024-11-06 03:54:14,280 - INFO - Started Main connection handler for ('192.168.1.11', 49344)
+2024-11-06 03:54:14,282 - INFO - Started Basic connection handler for ('192.168.1.11', 49345)
+2024-11-06 03:55:07,947 - INFO - Received quit command from ('192.168.1.11', 49345)
+2024-11-06 03:55:07,948 - INFO - Received quit command from ('192.168.1.11', 49344)
+2024-11-06 03:55:07,948 - INFO - Basic connection from ('192.168.1.11', 49345) closed
+2024-11-06 03:55:07,948 - ERROR - Error sending response: [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-11-06 03:55:07,949 - INFO - Main connection from ('192.168.1.11', 49344) closed
+2024-11-06 03:57:47,917 - INFO - Server started on :8080 and 8081
+2024-11-06 03:57:56,405 - INFO - Main connection from ('192.168.1.11', 49372)
+2024-11-06 03:57:56,430 - INFO - Basic connection from ('192.168.1.11', 49373)
+2024-11-06 03:57:56,432 - INFO - Started Main connection handler for ('192.168.1.11', 49372)
+2024-11-06 03:57:56,433 - INFO - Started Basic connection handler for ('192.168.1.11', 49373)
+2024-11-06 03:58:47,458 - INFO - Connection reset by ('192.168.1.11', 49372)
+2024-11-06 03:58:47,459 - INFO - Connection reset by ('192.168.1.11', 49373)
+2024-11-06 03:58:47,459 - INFO - Main connection from ('192.168.1.11', 49372) closed
+2024-11-06 03:58:47,460 - INFO - Basic connection from ('192.168.1.11', 49373) closed
+2024-11-06 04:29:58,803 - INFO - Server started on :8080 and 8081
+2024-11-06 04:30:04,536 - INFO - Main connection from ('192.168.1.11', 49485)
+2024-11-06 04:30:04,562 - INFO - Basic connection from ('192.168.1.11', 49486)
+2024-11-06 04:30:04,564 - INFO - Started Main connection handler for ('192.168.1.11', 49485)
+2024-11-06 04:30:04,566 - INFO - Started Basic connection handler for ('192.168.1.11', 49486)
